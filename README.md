@@ -48,7 +48,9 @@ the virtual environment `es_env` or you have relevant modules, type
 to collect the statistics on the usage of connectTrain during the last  seven days 
 
 or 
+
     $ python es_connectProj_query.py -days 1
+    
 
 to collect the statistics on the usage of connectTrain during the last day (this is default without any argument). 
 
