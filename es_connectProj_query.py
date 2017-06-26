@@ -6,7 +6,7 @@
 #usage           :python program.py -days 2 ( start_date is set from the supplied days. default = 1 day)
 #help            :python program.py --help
 #notes           :Extracts ConnectTrain usage from GRACC. 
-#python_version  :2.7
+#python_version  : 3.5.2
 
 import argparse
 from elasticsearch import Elasticsearch
