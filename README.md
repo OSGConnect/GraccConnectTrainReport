@@ -61,7 +61,7 @@ support team.
 
 
 The above command is being executed on login02 at 2.10 AM, everyday. An email report is send to the user support 
-team only if anyone used the connectTrain project. 
+team only if anyone used the `connectTrain` project. 
 
 
 ## List of Files
